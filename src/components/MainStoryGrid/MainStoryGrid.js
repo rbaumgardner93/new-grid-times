@@ -58,6 +58,7 @@ const Wrapper = styled.div`
     'opinion-stories'
     'advertisement';
   gap: 48px;
+  margin-bottom: 48px;
 
   @media(${QUERIES.tabletAndUp}) {
 	grid-template-areas:
